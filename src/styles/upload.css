@@ -1,0 +1,13 @@
+.inputBox {
+  border: 1px solid black !important;
+  outline: none !important;
+  font-size: 18px !important;
+  border-radius: 5px !important;
+  padding-left: 10px !important;
+}
+
+input[type="radio"] {
+  -webkit-appearance: radio !important;
+  display: inline !important;
+  -moz-appearance: radio !important;
+}
